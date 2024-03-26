@@ -1,1 +1,1 @@
-# CryptoFirstProject
+# CryptoProject
